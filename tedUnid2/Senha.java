@@ -148,28 +148,28 @@ public class Senha {
 	}
 
 	public static void vencedor(String p, int r) {
-	System.out.println("                ############################");
-	System.out.println("                 ##########################");
-	System.out.println("                 ##########################");
-	System.out.println("                 ##########################");
-	System.out.println("           ################     ################### ");
-	System.out.println("         ####    ############   ###########      ##  ");
-	System.out.println("         ####      ##########   ###########      ## ");
-	System.out.println("           ##      ##########   ###########    ####  ");
-	System.out.println("             ####    ########   #########    #### ");
-	System.out.println("               ############       #############  ");
-	System.out.println("                   ######################## ");
-	System.out.println("                       ############## ");
-	System.out.println("                         ############ ");
-	System.out.println("                           ######## ");
-	System.out.println("                             ####");
-	System.out.println("                             ####");
-	System.out.println("                        ##############");
-	System.out.println("                       #####      #####");
-	System.out.println("                        #### "+p+" ####");
-	System.out.println("                      ##################");
-	System.out.println("            _________________________________________");
-	System.out.println("               PARABÉNS!! VOCÊ VENCEU O DESAFIO!!");
-	System.out.println("                        Rodada [ "+(r-1)+" ]");
+		System.out.println("                ############################");
+		System.out.println("                 ##########################");
+		System.out.println("                 ##########################");
+		System.out.println("                 ##########################");
+		System.out.println("           ################     ################### ");
+		System.out.println("         ####    ############   ###########      ##  ");
+		System.out.println("         ####      ##########   ###########      ## ");
+		System.out.println("           ##      ##########   ###########    ####  ");
+		System.out.println("             ####    ########   #########    #### ");
+		System.out.println("               ############       #############  ");
+		System.out.println("                   ######################## ");
+		System.out.println("                       ############## ");
+		System.out.println("                         ############ ");
+		System.out.println("                           ######## ");
+		System.out.println("                             ####");
+		System.out.println("                             ####");
+		System.out.println("                        ##############");
+		System.out.println("                       #####      #####");
+		System.out.println("                        #### "+p+" ####");
+		System.out.println("                      ##################");
+		System.out.println("            _________________________________________");
+		System.out.println("               PARABÉNS!! VOCÊ VENCEU O DESAFIO!!");
+		System.out.println("                        Rodada [ "+(r-1)+" ]");
 	}
 }
